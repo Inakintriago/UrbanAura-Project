@@ -1,24 +1,24 @@
-# 📊 Proyecto UrbanAura - Análisis de Ventas Sector Retail
+# 📊 UrbanAura Project - Retail Sales Analysis
 
-## 📝 Contexto
-Este proyecto tiene como objetivo analizar datos generados en una tienda ficticia de retail en Europa llamada UrbanAura, con información sobre clientes, productos, transacciones de ventas y tiendas en diferentes ubicaciones. Los datos incluyen detalles sobre clientes (como nombre, email y fecha de registro), productos (nombre, categoría y precio), tiendas (ubicación y nombre), y ventas (información de la transacción, cantidad y fecha).
+## 📝 Context
+This project aims to analyze data generated in a fictitious retail store in Europe called **UrbanAura**, with information on customers, products, sales transactions, and stores in different locations. The data includes customer details (such as name, email, and registration date), product information (name, category, and price), store details (location and name), and sales (transaction details, quantity, and date).
 
-Este análisis proporciona una visión general de las ventas, el comportamiento de los consumidores, y permite extraer patrones de compra que pueden ser útiles para optimizar las estrategias comerciales en retail.
+This analysis provides an overview of sales, consumer behavior, and helps identify purchasing patterns that can be useful for optimizing retail strategies.
 
-## 🛠️ Herramientas Utilizadas
-- **Python**: Lenguaje de programación principal para la manipulación y análisis de datos.
-- **Pandas**: Librería para la manipulación y análisis de datos, utilizada para cargar, limpiar y analizar los datos.
-- **Matplotlib/Seaborn**: Librerías de visualización de datos para generar gráficos de resultados.
-- **Jupyter Notebook**: Herramientas para escribir y ejecutar el código en un entorno interactivo, facilitando la visualización de resultados.
+## 🛠️ Tools Used
+- **Python**: Main programming language for data manipulation and analysis.
+- **Pandas**: Library for data manipulation and analysis, used for loading, cleaning, and analyzing the data.
+- **Matplotlib/Seaborn**: Data visualization libraries for generating result graphs.
+- **Jupyter Notebook**: Tool for writing and running code in an interactive environment, making it easier to visualize results.
 
-## 📈 Análisis de Resultados
-A través de la combinación de estos datos, se pueden realizar varias acciones, como:
-- Análisis de ventas por tienda, categoría de producto o periodo de tiempo.
-- Identificación de patrones de consumo, como productos más vendidos o clientes recurrentes.
-- Cálculo de KPIs como el ticket promedio, ingresos por tienda o categoría de producto.
-Con base en el análisis de estos datos, pueden generarse informes sobre la rentabilidad de las tiendas o de las categorías de productos. Las visualizaciones proporcionan una forma clara de observar tendencias y tomar decisiones basadas en los datos.
+## 📈 Results Analysis
+By combining this data, several actions can be performed, such as:
+- Sales analysis by store, product category, or time period.
+- Identifying consumption patterns, such as best-selling products or repeat customers.
+- Calculation of KPIs such as average ticket, revenue by store or product category.
+Based on the analysis of this data, reports on the profitability of stores or product categories can be generated. Visualizations provide a clear way to observe trends and make data-driven decisions.
 
-## 📋 Conclusiones
-- Este proyecto tiene como objetivo ayudar a las empresas de retail a entender mejor su rendimiento y tomar decisiones informadas sobre productos, ventas y marketing. Los datos permiten obtener una visión clara sobre qué productos y tiendas son más rentables, quiénes son los clientes más leales, y cómo mejorar la estrategia general para aumentar las ventas.
+## 📋 Conclusions
+- This project aims to help retail businesses better understand their performance and make informed decisions about products, sales, and marketing. The data provides a clear view of which products and stores are most profitable, who the most loyal customers are, and how to improve the overall strategy to increase sales.
 
-- En futuras etapas, este análisis podría integrarse con herramientas de machine learning para predecir ventas futuras, optimizar el inventario o personalizar la experiencia del cliente.
+- In future stages, this analysis could be integrated with machine learning tools to predict future sales, optimize inventory, or personalize the customer experience.
